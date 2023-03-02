@@ -506,7 +506,8 @@ img {
   .our-gallery {
     /* background: none; */
     color: black;
-    /* height: 181vh; */
+    width: 100%;
+    
   }
 }
 
