@@ -507,7 +507,9 @@ img {
     /* background: none; */
     color: black;
     width: 100%;
-    
+  }
+  .main-grid {
+    width: 100%;
   }
 }
 
